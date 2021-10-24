@@ -1,0 +1,12 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+tekpix:
+  name: tekpix
+  description:  |
+    Tekpix (também estilizada como TekPix) foi uma linha de produtos tecnológicos da empresa brasileira Tecnomania.
+    Ficou mais conhecida por suas câmeras multifuncionalidade, que começaram a ser vendidas no início dos anos 2000, mas pararam em 2013 devido à crescente popularidade dos smartphones.
+    O anunciante da Tekpix na televisão, o "Juarez da Tekpix", tornou-se um meme por seus bordões, como "Vamos falar de coisa boa".
+    Ele afirmava que a Tekpix era a câmera mais vendida no Brasil, no entanto, isso nunca foi comprovado.
+    A linha também incluiu um tablet Android, o i-TVWF7x-4.0, lançado em 2013.
+    Os produtos receberam críticas negativas em relação à baixa qualidade e alto preço, sendo feitas diversas comparações com outros produtos de menor valor e melhor qualidade por sites de tecnologia.
+  cost: 500

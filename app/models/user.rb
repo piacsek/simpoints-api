@@ -1,4 +1,4 @@
 class User < ApplicationRecord
-  validates :name, presence: true
-  validates :balance, presence: true,  numericality: { only_integer: true }
+  validates :name, :balance, presence: true
+  validates :balance, numericality: { only_integer: true }
 end
