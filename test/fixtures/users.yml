@@ -3,3 +3,7 @@
 rich:
   name: Mr High Balance
   balance: 1000000000
+
+newcomer:
+  name: Mr Newcomer
+  balance: 0
